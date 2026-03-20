@@ -1,0 +1,10 @@
+^A:\CLION\ARKANOID_2026_02_03_KOCHEV_ILYA\ARKANOID_2026_02_03_KOCHEV_ILYA\BUILD\CMAKEFILES\6ECF0909F3E1F8F0B6D713707B2F06DD\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SA:/CLion/Arkanoid_2026_02_03_Kochev_Ilya/Arkanoid_2026_02_03_Kochev_Ilya -BA:/CLion/Arkanoid_2026_02_03_Kochev_Ilya/Arkanoid_2026_02_03_Kochev_Ilya/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file A:/CLion/Arkanoid_2026_02_03_Kochev_Ilya/Arkanoid_2026_02_03_Kochev_Ilya/build/Arkanoid.slnx
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

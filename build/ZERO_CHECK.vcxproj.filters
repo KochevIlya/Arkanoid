@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="18.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="A:\CLion\Arkanoid_2026_02_03_Kochev_Ilya\Arkanoid_2026_02_03_Kochev_Ilya\build\CMakeFiles\6ecf0909f3e1f8f0b6d713707b2f06dd\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{2D065880-BB4A-30ED-8BAE-5537C45A83AB}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,7 @@
+A:/CLion/Arkanoid_2026_02_03_Kochev_Ilya/Arkanoid_2026_02_03_Kochev_Ilya/build/CMakeFiles/glad.dir
+A:/CLion/Arkanoid_2026_02_03_Kochev_Ilya/Arkanoid_2026_02_03_Kochev_Ilya/build/CMakeFiles/imgui.dir
+A:/CLion/Arkanoid_2026_02_03_Kochev_Ilya/Arkanoid_2026_02_03_Kochev_Ilya/build/CMakeFiles/Arkanoid.dir
+A:/CLion/Arkanoid_2026_02_03_Kochev_Ilya/Arkanoid_2026_02_03_Kochev_Ilya/build/CMakeFiles/ALL_BUILD.dir
+A:/CLion/Arkanoid_2026_02_03_Kochev_Ilya/Arkanoid_2026_02_03_Kochev_Ilya/build/CMakeFiles/ZERO_CHECK.dir
+A:/CLion/Arkanoid_2026_02_03_Kochev_Ilya/Arkanoid_2026_02_03_Kochev_Ilya/build/glfw_binary/CMakeFiles/ALL_BUILD.dir
+A:/CLion/Arkanoid_2026_02_03_Kochev_Ilya/Arkanoid_2026_02_03_Kochev_Ilya/build/glfw_binary/src/CMakeFiles/glfw.dir

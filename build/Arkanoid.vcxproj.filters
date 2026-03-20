@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="18.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="A:\CLion\Arkanoid_2026_02_03_Kochev_Ilya\Arkanoid_2026_02_03_Kochev_Ilya\src\arkanoid_impl.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="A:\CLion\Arkanoid_2026_02_03_Kochev_Ilya\Arkanoid_2026_02_03_Kochev_Ilya\src\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="A:\CLion\Arkanoid_2026_02_03_Kochev_Ilya\Arkanoid_2026_02_03_Kochev_Ilya\src\arkanoid.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="A:\CLion\Arkanoid_2026_02_03_Kochev_Ilya\Arkanoid_2026_02_03_Kochev_Ilya\src\arkanoid_impl.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="A:\CLion\Arkanoid_2026_02_03_Kochev_Ilya\Arkanoid_2026_02_03_Kochev_Ilya\src\base.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="A:\CLion\Arkanoid_2026_02_03_Kochev_Ilya\Arkanoid_2026_02_03_Kochev_Ilya\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{3063BFB9-A8D7-31B7-AF6F-422BB1862918}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{6A463AFB-1728-3E24-93AA-A339E1AF7DD6}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

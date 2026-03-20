@@ -1,0 +1,10 @@
+﻿  Building Custom Rule A:/CLion/Arkanoid_2026_02_03_Kochev_Ilya/Arkanoid_2026_02_03_Kochev_Ilya/CMakeLists.txt
+  imgui.cpp
+  imgui_demo.cpp
+  imgui_draw.cpp
+  imgui_tables.cpp
+  imgui_widgets.cpp
+  imgui_impl_glfw.cpp
+  imgui_impl_opengl3.cpp
+  Создание кода...
+  imgui.vcxproj -> A:\CLion\Arkanoid_2026_02_03_Kochev_Ilya\Arkanoid_2026_02_03_Kochev_Ilya\build\Debug\imgui.lib

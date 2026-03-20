@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>A:\CLion\Arkanoid_2026_02_03_Kochev_Ilya\Arkanoid_2026_02_03_Kochev_Ilya\build\x64\Debug\ZERO_CHECK</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>A:\CLion\Arkanoid_2026_02_03_Kochev_Ilya\Arkanoid_2026_02_03_Kochev_Ilya\build\Debug\Arkanoid.exe</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles />
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>
